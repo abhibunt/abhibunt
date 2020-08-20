@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 Hi! I'm an open source developer looking for new things to learn, challenges and low-level stuff (except electronics. don't make me do electronics, please. or PHP). but I like meeting new people 😊
 <h3>What I usually work on</h3>
 
-<b>⚙️ Kernels</b>
-<b>🔬 Forensics & reverse engineering</b>
-<b>📠 Networks</b>
-<p>📡 Radio</p>
-<p>🎥 A/V (sometimes)</p>
+<br>⚙️ Kernels</br>
+<br>🔬 Forensics & reverse engineering</br>
+<br>📠 Networks</br>
+<br>📡 Radio</br>
+<br>🎥 A/V (sometimes)</br>
 <h3>Favorite languages</h3>
 
 Typescript, Python, Dart & C++
