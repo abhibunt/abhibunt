@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi! I'm an open source developer looking for new things to learn, challenges and low-level stuff (except electronics. don't make me do electronics, please. or PHP). but I like meeting new people 😊
-What I usually work on
+<h1>What I usually work on</h1>
 
 ⚙️ Kernels
 🔬 Forensics & reverse engineering
