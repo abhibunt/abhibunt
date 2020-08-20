@@ -1,5 +1,4 @@
-### Hi there 👋
-
+###
 <!--
 **abhibunt/abhibunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm an open source developer looking for new things to learn, challenges and low-level stuff (except electronics. don't make me do electronics, please. or PHP). but I like meeting new people 😊
+Hi!👋
+ I'm an open source developer looking for new things to learn, challenges and low-level stuff (except electronics. don't make me do electronics, please. or PHP). but I like meeting new people 😊
 <h3>What I usually work on</h3>
 
 <br>⚙️ Kernels</br>
