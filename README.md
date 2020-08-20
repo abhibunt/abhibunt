@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi! I'm an open source developer looking for new things to learn, challenges and low-level stuff (except electronics. don't make me do electronics, please. or PHP). but I like meeting new people 😊
-<h1>What I usually work on</h1>
+<h3>What I usually work on</h3>
 
-⚙️ Kernels
-🔬 Forensics & reverse engineering
-📠 Networks
-📡 Radio
-🎥 A/V (sometimes)
-Favorite languages
+<p>⚙️ Kernels</p>
+<p>🔬 Forensics & reverse engineering</p>
+<p>📠 Networks</p>
+<p>📡 Radio</p>
+<p>🎥 A/V (sometimes)</p>
+<h3>Favorite languages</h3>
 
 Typescript, Python, Dart & C++
