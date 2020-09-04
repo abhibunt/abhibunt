@@ -24,4 +24,4 @@ Hi!👋
 <br>🎥 A/V (sometimes)</br>
 <h3>Favorite languages</h3>
 
-Typescript, Python, Dart & C++
+C#,C++,Python,Typescript and dart.
